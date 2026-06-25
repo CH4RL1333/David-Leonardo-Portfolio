@@ -3,7 +3,7 @@
 - Mechatronics Engineering student in Universidad Autónoma de Nuevo León (UANL)  
 - Semester: 3 | Expected graduation: 2030
 
-# Interested in [tus áreas: Machine Learning, Energías Renovables, Robótica, Optimización, etc.]
+# Interested in
 - Research
 - Environmental engineering
 - Nuclear energy
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Technic abilities
 
 **Programming languages:** Lua
 **Tools:** Git.  
